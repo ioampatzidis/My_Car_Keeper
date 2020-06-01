@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My Car Keeper</string>
+
+    <string name="new_car">New Car</string>
+    <string name="new_task">New Task</string>
+    <string name="new_saveTask">SAVE</string>
+    <string name="new_saveCar">SAVE</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="choose">Select</string>
+    <string name="change_list">Car List</string>
+    <string name="change_list2">Task List</string>
+    <string name="text_add_task">Add new task</string>
+    <string name="name_task">Task Name</string>
+    <string name="model_name">Car Name</string>
+    <string name="plate_number">"Plate No. "</string>
+    <string name="name_yp">"Task Manager"</string>
+    <string name="new_date">Choose date</string>
+    <string name="text_add_car">Please add new car</string>
+    <string name="cars_brand">" Add car make"</string>
+    <string name="cars_model">Add car model</string>
+    <string name="cars_plate">Add lisence plate</string>
+    <string name="car_error">Please enter car</string>
+    <string name="brand_error">Please enter model</string>
+    <string name="plate_error">Please enter plate</string>
+    <string name="nameTask_error">Please add task</string>
+    <string name="carModelTask_error">Please add model</string>
+    <string name="newTask_plate_error">Please add plate</string>
+    <string name="newTaskYp_error">Please add responsible</string>
+    <string name="new_date_error">Please choose date</string>
+    <string name="cancelToast">Cancelled</string>
+    <string name="deleteToast">Deleted</string>
+    <string name="deleteCheck">Permanent Delete?</string>
+    <string name="mytasks">My Tasks</string>
+    <string name="mycars">My Cars</string>
+    <string name="pressBack">Press back again to exit</string>
+
+
+</resources>

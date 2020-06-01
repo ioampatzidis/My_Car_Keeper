@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Car Keeper</string>
+
+    // strings in main layout
+    <string name="change_list">Πατήστε για προβολή Αυτοκινήτων</string>
+    <string name="change_list2">Πατήστε για προβολή Εργασιών</string>
+    <string name="new_car">Νέο Αυτοκίνητο</string>
+    <string name="new_task">Νέα Εργασία</string>
+    // strings in activity_add_new_task
+    <string name="text_add_task">Παρακαλώ προσθέστε μια νέα εργασία</string>
+    <string name="name_task">Προσθεστέ το όνομα της εργασίας</string>
+    <string name="model_name">Προσθεστέ το μοντέλο του αυτοκινήτου</string>
+    <string name="plate_number">Προσθεστέ τον αριθμό πινακίδας</string>
+    <string name="name_yp">Προσθεστέ τον υπεύθυνο για την εργασία</string>
+    <string name="new_date">Επιλογή Ημερομηνίας</string>
+    <string name="new_saveTask">ΑΠΟΘΗΚΕΥΣΗ</string>
+    // strings in activity_add_new_car
+    <string name="text_add_car">Παρακαλώ προσθέστε νέο αυτοκίνητο</string>
+    <string name="cars_brand">Προσθεστέ τη μάρκα του αυτοκινήτου</string>
+    <string name="cars_model">Προσθεστέ το μοντέλο του αυτοκινήτου</string>
+    <string name="cars_plate">Προσθέστε την πινακίδα του αυτοκινήτου</string>
+    <string name="new_saveCar">ΑΠΟΘΗΚΕΥΣΗ</string>
+    // strings for error messages
+    <string name="car_error">Παρακαλώ προσθέστε ένα αυτοκίνητο</string>
+    <string name="brand_error">Παρακαλώ προσθέστε το μοντέλο</string>
+    <string name="plate_error">Παρακαλώ προσθέστε την πινακίδα</string>
+
+    // string for error message
+    <string name="nameTask_error">Παρακαλώ προσθέστε μια εργασία</string>
+    <string name="carModelTask_error">Παρακαλώ προσθέστε το μοντέλο</string>
+    <string name="newTask_plate_error">Παρακαλώ προσθέστε την πινακίδα</string>
+    <string name="newTaskYp_error">Παρακαλώ προσθεστέ τον υπεύθυνο για την εργασία</string>
+    <string name="new_date_error">Παρακαλώ επιλέξτε ημερομηνία</string>
+
+    // toast's strings
+    <string name="deleteToast">Διαγράφηκε</string>
+    <string name="cancelToast">Ακυρώθηκε</string>
+    //delete Confirmation
+    <string name="choose">Επιλέξτε</string>
+    <string name="deleteCheck">Επιθυμείτε οριστική διαγραφή;</string>
+    <string name="yes">Ναι</string>
+    <string name="no">Οχι</string>
+    <string name="mytasks">Οι εργασίες μου</string>
+    <string name="mycars">Τα αυτοκίνητα μου</string>
+    <string name="pressBack">Πατήστε ξανά πίσω για έξοδο</string>
+
+</resources>

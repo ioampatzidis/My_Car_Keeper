@@ -1,0 +1,2 @@
+# My_Car_Keeper
+The purpose of the innovative Android application "My Car Keeper" is to gather and monitor the various tasks that the owner of a vehicle, must perform. The application is an environment in which the user may import the car or cars he uses, and add works relating to that cars, as well as the date of their execution. By using the “My Car Keeper” application, the user can properly manage the tasks related to his cars.
